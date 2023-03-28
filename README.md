@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **akashat2003@gmail.com**
 
-- 📄 Know more about me [https://akshat-vashisht.github.io/Portfolio-Website/](https://akshat-vashisht.github.io/Portfolio-Website/)
-
 - ⚡ Fun fact **I love to eat and code!**
 
 <h3 align="left">Connect with me:</h3>
