@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)]
+![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hey there 👋🏻, I am Akshat Vashisht</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/QtpVVN9vW6RrXxDJI0/giphy.gif?cid=ecf05e4788ggkbn9c8xkchuscv1f4ja0imlrctrsftrzv23t&rid=giphy.gif&ct=g">
