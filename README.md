@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m currently building **AI/ML applications**
 
-- 💬 Ask me about **Python, MySQL, MongoDb, C, C++, Flask**
+- 💬 Ask me about **Python, MySQL, MongoDb, C, C++, Flask, TensorFlow**
 
-- 📫 How to reach me **akashat2003@gmail.com**
+- 📫 How to reach me **akshat.vashisht7503@gmail.com**
 
-- ⚡ Fun fact **I love to eat and code!**
+- ⚡ Fun fact **I love to listen to songs while coding!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
