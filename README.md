@@ -27,5 +27,3 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Akshat-Vashisht&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=Akshat-Vashisht&icon=9&color=6)](https://visitcount.itsvg.in)
