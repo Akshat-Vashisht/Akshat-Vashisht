@@ -3,7 +3,7 @@
 
 ## 💫 About Me:
 - 📚 I’m proficient in **Backend Development** and **Machine Learning**
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning **Rust**
 - 📫 Reach out to me at **akshat.vashisht7503@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshat-vashisht&label=Profile%20views&color=5947e1&style=flat" alt="akshat-vashisht" /> </p>
