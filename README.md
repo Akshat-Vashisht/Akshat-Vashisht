@@ -6,14 +6,6 @@
 - 🌱 I’m currently learning **Rust**
 - 📫 Reach out to me at **akshat.vashisht7503@gmail.com**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshat-vashisht&label=Profile%20views&color=5947e1&style=flat" alt="akshat-vashisht" /> </p>
-
-- 🌱 I’m currently learning **Rust**
-
-- 💬 Ask me about **Rust, Machine Learning, Deep Learning, Full Stack**
-
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/akshat.vashisht011/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akshatvashisht/) 
 
@@ -23,6 +15,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=Akshat-Vashisht&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Akshat-Vashisht&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat-Vashisht&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshat-vashisht&label=Profile%20views&color=5947e1&style=flat" alt="akshat-vashisht" /> </p>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Akshat-Vashisht&theme=radical&no-frame=true&no-bg=false&margin-w=4)
